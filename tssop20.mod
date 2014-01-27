@@ -1,0 +1,161 @@
+PCBNEW-LibModule-V1  27-01-2014 18:22:15
+# encoding utf-8
+Units mm
+$INDEX
+tssop20
+$EndINDEX
+$MODULE tssop20
+Po 0 0 0 15 52E69532 00000000 ~~
+Li tssop20
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -4.6 1 1 0 0.15 N V 21 N "tssop20"
+T1 0 4 1 1 0 0.15 N V 21 N "VAL**"
+DC -1.4 -2.8 -1.1 -2.6 0.15 21
+DS -2.2 -3.55 2.2 -3.55 0.15 21
+DS 2.2 -3.55 2.2 2.95 0.15 21
+DS 2.2 2.95 -2.2 2.95 0.15 21
+DS -2.2 2.95 -2.2 -3.55 0.15 21
+$PAD
+Sh "1" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 -3.25
+$EndPAD
+$PAD
+Sh "2" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 -2.6
+$EndPAD
+$PAD
+Sh "3" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 -1.95
+$EndPAD
+$PAD
+Sh "4" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 -1.3
+$EndPAD
+$PAD
+Sh "5" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 -0.65
+$EndPAD
+$PAD
+Sh "6" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 0
+$EndPAD
+$PAD
+Sh "7" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 0.65
+$EndPAD
+$PAD
+Sh "8" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 1.3
+$EndPAD
+$PAD
+Sh "9" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 1.95
+$EndPAD
+$PAD
+Sh "10" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 2.6
+$EndPAD
+$PAD
+Sh "11" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 2.6
+$EndPAD
+$PAD
+Sh "12" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 1.95
+$EndPAD
+$PAD
+Sh "13" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 1.3
+$EndPAD
+$PAD
+Sh "14" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 0.65
+$EndPAD
+$PAD
+Sh "15" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 0
+$EndPAD
+$PAD
+Sh "16" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 -0.65
+$EndPAD
+$PAD
+Sh "17" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 -1.3
+$EndPAD
+$PAD
+Sh "18" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 -1.95
+$EndPAD
+$PAD
+Sh "19" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 -2.6
+$EndPAD
+$PAD
+Sh "20" R 1 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 -3.25
+$EndPAD
+$EndMODULE tssop20
+$EndLIBRARY

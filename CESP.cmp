@@ -1,101 +1,115 @@
-Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = man 27 jan 2014 22:22:13 CET
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 27-01-2014 18:54:48
 
 BeginCmp
-TimeStamp = /52E6C752;
+TimeStamp = /52E68B06;
 Reference = C1;
 ValeurCmp = C;
 IdModule  = C1;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E6C755;
+TimeStamp = /52E68B15;
 Reference = C2;
 ValeurCmp = C;
 IdModule  = C2;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E6C683;
-Reference = Conn1;
-ValeurCmp = ATX_POWER;
-IdModule  = SSOP20;
+TimeStamp = /52E68B24;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E6C704;
+TimeStamp = /52E68B33;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E68B42;
 Reference = D1;
-ValeurCmp = DIODE;
+ValeurCmp = LED;
 IdModule  = D3;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E6C716;
+TimeStamp = /52E68BC2;
 Reference = D2;
 ValeurCmp = LED;
 IdModule  = LED-1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E6C674;
-Reference = IC1;
-ValeurCmp = ATTINY87-AX;
-IdModule  = TSSOP20;
+TimeStamp = /52E68BC8;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E6C8FE;
-Reference = P1;
-ValeurCmp = CONN_10X2;
-IdModule  = CONN20_SMD;
+TimeStamp = /52E68BCE;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E6C72B;
-Reference = Q1;
-ValeurCmp = NPN;
-IdModule  = TO92;
-EndCmp
-
-BeginCmp
-TimeStamp = /52E6C738;
+TimeStamp = /52E68AAC;
 Reference = R1;
 ValeurCmp = R;
 IdModule  = R1;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E6C73E;
+TimeStamp = /52E68ABB;
 Reference = R2;
 ValeurCmp = R;
 IdModule  = SM0603_Resistor;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E6C742;
+TimeStamp = /52E68ACA;
 Reference = R3;
 ValeurCmp = R;
 IdModule  = SM1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E6C696;
+TimeStamp = /52E68AD9;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E684EA;
 Reference = U1;
-ValeurCmp = LT3757EMSE;
-IdModule  = SSOP14;
+ValeurCmp = TPS7A42;
+IdModule  = MSOP_8_PowerPad;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E1F3CD;
+TimeStamp = /52E68A06;
 Reference = U2;
-ValeurCmp = TL074;
+ValeurCmp = 1066-NE555P;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E67D48;
+Reference = U3;
+ValeurCmp = 4066;
 IdModule  = TSSOP14;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E1F38F;
-Reference = U3;
-ValeurCmp = LTC1594CS;
-IdModule  = TSSOP14;
+TimeStamp = /52E6892D;
+Reference = U4;
+ValeurCmp = STM8S003F3;
+IdModule  = tssop20;
 EndCmp
 
 EndListe
