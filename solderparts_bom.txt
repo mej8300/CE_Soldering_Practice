@@ -1,0 +1,4 @@
+IC QUAD BILATERAL SWITCH 14-SOIC,	soic-14,	2.62,	http://www.digikey.dk/product-detail/en/CD4066BM96/296-14475-1-ND/555615
+IC REG LDO ADJ 50MA 8MSOP,			msop-8,		5.43,	http://www.digikey.dk/product-detail/en/TPS7A4201DGNR/296-30082-1-ND/2798775
+IC MCU 8BIT 8KB FLASH 20TSSOP,		tssop-20,	5.43,	http://www.digikey.dk/product-detail/en/STM8S003F3P6/497-11946-5-ND/2765682
+IC OSC MONO TIMING 8-DIP,			8-pdip,		1.97,	http://www.digikey.dk/product-detail/en/NA555P/296-21753-5-ND/1571935
